@@ -76,14 +76,15 @@ a:hover, a:focus, a:active {
 
 div .icon-img {
   height: 30px;
-  width: 30px;
+  width: 33px;
+  margin-bottom: 3px;
 }
 
 div .icon-imgo {
   height: 50px;
-  width: 50px;
-      margin-right: 5px;
-    margin-bottom: 8px;
+  width: 54px;
+      margin-right: 10px;
+    margin-bottom: 18px;
 }
 
 .btn {
