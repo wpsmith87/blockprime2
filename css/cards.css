@@ -79,6 +79,13 @@ div .icon-img {
   width: 30px;
 }
 
+div .icon-imgo {
+  height: 50px;
+  width: 50px;
+      margin-right: 5px;
+    margin-bottom: 8px;
+}
+
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
@@ -2948,7 +2955,7 @@ a:hover .lnk-icon-right {
   padding-top: 4em;
 }
 .fh5co-footer-style-3 .fh5co-made p {
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family: "Dosis", sans-serif;
   font-size: 24px;
 }
 .fh5co-footer-style-3 .fh5co-made p:last-child {
@@ -3658,5 +3665,7 @@ a:hover .lnk-icon-right {
         left: 28px;
     }
 }
+
+
 
 /*# sourceMappingURL=cards.css.map */
