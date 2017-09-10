@@ -83,8 +83,18 @@ div .icon-img {
 div .icon-imgo {
   height: 50px;
   width: 54px;
+  margin-left: 10px;
       margin-right: 10px;
     margin-bottom: 18px;
+}
+
+div .icon-imgoe {
+  height: 30px;
+  width: 33px;
+  margin-left: 10px;
+      margin-right: 10px;
+    margin-bottom: 18px;
+    float: right;
 }
 
 .btn {
@@ -109,6 +119,11 @@ div .icon-imgo {
 .btn.btn-lg {
   padding: 18px 36px !important;
 }
+
+.btn.btn-lgn {
+  padding: 18px 24px !important;
+}
+
 .btn:hover, .btn:active, .btn:focus {
   box-shadow: none !important;
   outline: none !important;
@@ -3186,7 +3201,7 @@ a:hover .lnk-icon-right {
 }
 
 .fh5co-pricing-style-2 {
-  background: #58ca7e;
+  background: #1784fb;
 }
 .fh5co-pricing-style-2 .fh5co-heading {
   color: #fff;
@@ -3480,6 +3495,8 @@ a:hover .lnk-icon-right {
   }
 }
 
-
+.toggler {
+  margin-right: 10px;
+}
 
 /*# sourceMappingURL=cards.css.map */
